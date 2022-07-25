@@ -1,0 +1,91 @@
+@media (max-width: 767px) {
+  .card-row {
+    display: block;
+  }
+}
+
+@media (max-width: 555px) {
+  .nav-link {
+    font-size: 1.25rem;
+  }
+}
+
+
+section {
+    padding: 3rem 1rem;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  text-align: left;
+}
+
+.beige-bg {
+  background-color: #F9EBC8;
+}
+
+.container {
+    padding-bottom: 2rem;
+}
+
+.has_text_centered {
+    text-align: center;
+}
+
+.left_par {
+    padding-left: 0rem;
+}
+
+.light-beige-bg {
+  background: #FEFBE7;
+}
+
+.navbar-nav {
+    margin-left: 5%;
+}
+
+.nav-item {
+    margin-right: 10%;
+    font-size: 150%
+}
+
+.no-margin {
+  margin: 0px;
+}
+
+.project-info {
+    padding-top: 2rem;
+    width: 40%;
+    text-align: center;
+    border-width: thin;
+}
+
+.row {
+    padding-top: 1.5rem;
+    padding-bottom:1.5rem;
+}
+
+.td-l {
+  padding-right: 1rem;
+}
+
+.td-r {
+  padding-left: 1rem;
+}
+
+.portfolio-body img{
+  border: 1px solid #000000;
+}
+
+
+#greeting {
+    padding: 6rem 0rem 9rem 0rem;
+}
+
+#portfolio-heading {
+  margin-top: .5rem;
+}
