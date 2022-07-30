@@ -24,6 +24,11 @@ td {
   text-align: left;
 }
 
+.about-me {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
 .beige-bg {
   background-color: #F9EBC8;
 }
