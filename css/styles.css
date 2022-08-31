@@ -11,9 +11,9 @@
 }
 
 
-section {
+/* section {
     padding: 3rem 1rem;
-}
+} */
 
 table {
   margin-left: auto;
@@ -25,8 +25,11 @@ td {
 }
 
 .about-me {
-  margin-left: 15%;
-  margin-right: 15%;
+  width: 70%;
+}
+
+.baby-blue-bg {
+  background-color: #A0BCC2;
 }
 
 .beige-bg {
@@ -43,6 +46,10 @@ td {
 
 .left_par {
     padding-left: 0rem;
+}
+
+.light-beige {
+  color: #FEFBE7;
 }
 
 .light-beige-bg {
@@ -62,9 +69,13 @@ td {
   margin: 0px;
 }
 
+.project-par {
+  width: 40%;
+}
+
 .project-info {
     padding-top: 2rem;
-    width: 40%;
+    /* width: 20%; */
     text-align: center;
     border-width: thin;
 }
@@ -96,8 +107,4 @@ td {
 
 #greeting {
     padding: 6rem 0rem 9rem 0rem;
-}
-
-#portfolio-heading {
-  margin-top: .5rem;
 }
