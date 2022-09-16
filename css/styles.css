@@ -69,6 +69,12 @@ td {
   margin: 0px;
 }
 
+.project-examples img {
+  width: 25rem;
+}
+
+
+
 .project-par {
   width: 40%;
 }
